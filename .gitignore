@@ -1,0 +1,13 @@
+# Local history, generated packages, runtime inputs, and credentials are not source.
+/backups/
+/*.zip
+/runtime/*
+!/runtime/.gitignore
+/.codex/
+/.agents/
+.env
+.env.*
+*.log
+auth.json
+/node_modules/
+/*.java
